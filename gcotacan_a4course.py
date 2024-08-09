@@ -1,4 +1,3 @@
-#Gerardo Cota Canez, CIS 345, Online Session B, A4
 import random
 
 courses = []
